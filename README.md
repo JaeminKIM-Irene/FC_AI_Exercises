@@ -6,7 +6,7 @@
 
  ## :calendar: 부트캠프 기간 :calendar:
 ### 2023.07.17-2024.02.09 </br></br></br>
-## :memo: Teck Stack :memo: 
+## :memo: Tech Stack :memo: 
 ### [Framework & Languages]
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></br>
 
