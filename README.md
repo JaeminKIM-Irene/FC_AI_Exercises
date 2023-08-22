@@ -8,10 +8,11 @@
 ### 2023.07.17-2024.02.09 </br></br></br>
 ## :memo: Teck Stack :memo: 
 ### [Framework & Languages]
-<img src="https://img.shields.io/badge/Python-F24E1E?style=flat-square&logo=Python&logoColor=#3776AB"/></br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></br>
 
 ### [TOOLS]
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></br></br></br></br>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></br></br></br></br>
 
 </div>
