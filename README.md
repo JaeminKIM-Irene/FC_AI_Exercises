@@ -2,11 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=Rounded&color=0:a18cd1,100:fbc2eb&height=120&section=header&text=FC%20AI%20BOOTCAMP&fontSize=70&" />
 
-
-
-</br></br></br>**FC AI 부트캠프 실습 및 연습 파일**</br></br></br>
-
-
+</br></br>**FC AI 부트캠프 실습 및 연습 파일**</br></br>
 
  ## :calendar: 부트캠프 기간 :calendar:
 ### 2023.07.17-2024.02.09 </br></br></br>
