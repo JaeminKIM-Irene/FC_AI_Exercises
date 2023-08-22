@@ -1,6 +1,6 @@
 <div align=center>
 
-<img src="https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=120&section=header&text=FC%20AI%20부트캠프&fontSize=90&" />
+<img src="https://capsule-render.vercel.app/api?type=Rounded&color=0:a18cd1,100:fbc2eb&height=120&section=header&text=FC%20AI%20부트캠프&fontSize=90&" />
 
 
 
