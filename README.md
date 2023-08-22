@@ -1,6 +1,6 @@
 <div align=center>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&customColorList=0&height=200&section=header&text=PAWPAW_Admin&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&customColorList=0&height=200&section=header&text=FC AI 부트캠프&fontSize=70" />
 
 
 
